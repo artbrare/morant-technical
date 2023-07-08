@@ -5,7 +5,4 @@
 
 > Resuelto por: *Arturo Bravo Reynaga*
 
-
-## Instrucciones
-
-(pendiente)
+Dentro de las carpetas Pregunta-[x] se cuenta con la solución de cada problema. Los primeros 4 se resuelven utilizando Python y jupyter notebooks.
