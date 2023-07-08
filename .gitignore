@@ -1,0 +1,21 @@
+# Comentarios: inician con el símbolo #
+
+# Ignorar la carpeta venv
+venv/
+
+# Ignorar archivos de configuración específicos
+config.ini
+
+# Ignorar archivos de registro
+*.log
+
+# Ignorar archivos temporales
+*.tmp
+
+# Ignorar archivos compilados
+*.pyc
+*.class
+
+# Ignorar archivos generados por IDEs
+.idea/
+.vscode/
